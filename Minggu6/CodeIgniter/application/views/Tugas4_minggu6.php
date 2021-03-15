@@ -77,7 +77,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<code><?= $var1; ?> | <?= $var2; ?> | <?= $var3; ?> | <?= $var4; ?></code>
 
 		<p>The corresponding controller for this page is found at:</p>
-		<code>Hello Adya Zalfa Zahirah E31190957 B</code>
+		<code>Hello Shindi Fatika Sari E31191120 B</code>
 
 		<p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
 	</div>

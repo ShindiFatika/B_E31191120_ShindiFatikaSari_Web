@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Shindi Fatika Sari</title>
+	<title>SHINDI FATIKA SARI</title>
 </head>
 <body>
 	<h2>Hello Word CI</h2>

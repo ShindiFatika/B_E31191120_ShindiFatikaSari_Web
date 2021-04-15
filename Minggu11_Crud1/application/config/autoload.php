@@ -58,7 +58,7 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array('table','template','database','session');
+$autoload['libraries'] = array('table','template','database','session'); //mendeklarasikan arrray kedalam table,template,database ,session
 
 /*
 | -------------------------------------------------------------------
